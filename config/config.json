@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x788b9e5c6Ae10A34c24D5818c209aa6A2794c3B2",
+  "SCAN_LINK": "https://arbiscan.io/address",
+  "NETWORK": {
+    "NAME": "Arbitrum",
+    "SYMBOL": "ETH",
+    "ID": 42161
+  },
+  "NFT_NAME": "STRESTEST",
+  "SYMBOL": "TEST",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
